@@ -1,2 +1,3 @@
-# Jogo-da-Cobrinha
-Jogo da Cobrinha 2D 
+# Jogo-da-Cobrinha 		:snake:
+
+#### Jogo da Cobrinha 2D.
